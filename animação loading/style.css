@@ -17,7 +17,7 @@ div.circle{
     animation: loading 1.6s infinite linear;
 }
 
-div.circle:nth-child(1) {
+div.circle:nth-child(1) { 
     animation-delay: 0;
 }
 div.circle:nth-child(2) {
